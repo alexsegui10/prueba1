@@ -1,4 +1,8 @@
 Carmen
 Ana
 Lucia
+<<<<<<< HEAD
 Manuela
+=======
+Isabela
+>>>>>>> test2
